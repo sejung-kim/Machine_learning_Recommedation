@@ -20,11 +20,14 @@ link: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/c2c05183-70fe-4801-ae5a-bd73929c8f30)
 
-2. Content based filtering
+<h3>2. Content based filtering</h3>
+
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/d5111d06-b628-4f2a-8812-18cf15ffbc78)
-3. Apriori
+<h3>3. Apriori</h3>
+
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/47e7f280-58d7-4894-b7ec-95b5b565dd2e)
-4. KNN
+<h3>4. KNN</h3>
+
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/e104719c-97f8-4101-8a44-ffad2e6bda3b)
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/f770a521-4078-455d-8ce0-92726f2c84d5)
 
