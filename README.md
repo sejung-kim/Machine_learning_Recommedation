@@ -16,7 +16,7 @@ link: https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset
 구건호  김관일  김세중  안지오
 
 # Architecture
-1. Collaborative filtering
+<h3>1. Collaborative filtering</h3>
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/c2c05183-70fe-4801-ae5a-bd73929c8f30)
 2. Content based filtering
 ![image](https://github.com/sejung-kim/Machine_learning_Recommedation/assets/82256962/d5111d06-b628-4f2a-8812-18cf15ffbc78)
